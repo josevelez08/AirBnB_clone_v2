@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" return a html page"""
+"""return a html page"""
 from flask import Flask
 from flask import render_template
 
